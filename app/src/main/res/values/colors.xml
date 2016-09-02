@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="lcd_color_black">#000000</color>
+    <color name="lcd_color_red">#FF0000</color>
+    <color name="lcd_color_green">#00FF00</color>
+    <color name="lcd_color_blue">#0000FF</color>
+    <color name="lcd_color_white">#FFFFFF</color>
+    <color name="lcd_color_gray">#787878</color>
+
+</resources>
